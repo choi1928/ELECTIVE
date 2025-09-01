@@ -1,0 +1,45 @@
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\obj\Debug\IT ELECTIVES.csproj.AssemblyReference.cache
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\obj\Debug\IT_ELECTIVES.Form1.resources
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\obj\Debug\IT_ELECTIVES.Properties.Resources.resources
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\obj\Debug\IT ELECTIVES.csproj.GenerateResource.cache
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\obj\Debug\IT ELECTIVES.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\obj\Debug\IT ELECTIVES.csproj.SuggestedBindingRedirects.cache
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\obj\Debug\IT ELECTIVES.exe.config
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\IT ELECTIVES.exe.config
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\IT ELECTIVES.exe
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\IT ELECTIVES.pdb
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\Google.Protobuf.dll
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\MySql.Data.dll
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\System.Buffers.dll
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\System.Memory.dll
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\ZstdSharp.dll
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\Google.Protobuf.pdb
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\Google.Protobuf.xml
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\MySql.Data.xml
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\System.Buffers.xml
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\System.Memory.xml
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\obj\Debug\IT ELECT.44E5E0AF.Up2Date
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\obj\Debug\IT ELECTIVES.exe
+C:\Users\ariel\source\repos\IT ELECTIVES\IT ELECTIVES\obj\Debug\IT ELECTIVES.pdb
